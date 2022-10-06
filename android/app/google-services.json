@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "703620350242",
+    "project_id": "my-talk-app-flutter-project",
+    "storage_bucket": "my-talk-app-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703620350242:android:671c38588fff6ca834257b",
+        "android_client_info": {
+          "package_name": "com.darlhp.talkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703620350242-jams60mcm6fe4qst4986fg8gsls9poi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUsOJ0pBET0DY3YXCp-svmd_RSQ3J1_lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703620350242-jams60mcm6fe4qst4986fg8gsls9poi9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "703620350242-oh6dt24el8eq72nt4ddig5ke7tcp8shr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.darlhp.talkapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
